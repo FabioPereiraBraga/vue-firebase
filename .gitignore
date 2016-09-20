@@ -1,0 +1,4 @@
+.idea/
+app/firebase-config.js
+bower_components/
+node_modules/

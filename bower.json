@@ -1,0 +1,24 @@
+{
+  "name": "vue-firebase",
+  "authors": [
+    "FabioPereiraBraga <fabio.pereirabraga@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "vue": "^1.0.26",
+    "vue-router": "^0.7.13",
+    "blueimp-md5": "^2.3.1",
+    "requirejs": "^2.3.2"
+  }
+}
